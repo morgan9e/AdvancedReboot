@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Advanced Reboot
+Comment=Choose boot entry for next reboot
+Exec=pkexec /usr/local/bin/advanced-reboot
+Icon=system-reboot
+Terminal=false
+Type=Application
+Categories=System;Settings;
